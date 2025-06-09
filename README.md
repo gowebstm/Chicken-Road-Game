@@ -58,7 +58,23 @@ Admin can easily manage:
 - Trap logic behavior
 - Difficulty-level reward configuration
 
-[![Chicken Road Game Admin](https://www.dpboss.solutions/images/chicken-road-game-admin.png)](https://wa.me/918585858844)
+![Chicken Road Game Admin](https://www.dpboss.solutions/images/chicken-road-game-admin.png)
+
+![Chicken Road Game Report](https://www.dpboss.solutions/images/chicken-road-game-report.png)
+
+**Admin Report Panel:**
+- Shows daily game statistics with play count
+- Tracks bid amount, win amount, and profit/loss per session
+- Date-wise report filtering and detailed view options
+- Helps admins monitor revenue and gameplay trends in real-time
+
+**Report Table Columns:**
+- Date
+- Number of Users
+- Bid Amount
+- Win Amount
+- Profit / Loss (P/L)
+- View Details
 
 **Settings Snapshot:** Chicken Road Cross Settings – Multiplier Manage
 
