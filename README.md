@@ -1,4 +1,4 @@
-# 🐔 Chicken Cross Road Game – Kotlin/Java Source Code
+# 🐔 Chicken Cross Road Game – Source Code
 
 A thrilling, step-by-step prediction game where players guide a chicken across a 25-step road. At every step, the reward increases, but a hidden roast trap could end the game instantly. Players must decide when to cash out to win!
 
