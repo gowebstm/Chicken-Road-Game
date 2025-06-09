@@ -25,6 +25,10 @@ This makes the game extremely engaging, with repeat play value and suspense at e
 
 ---
 
+[![Contact on WhatsApp](https://www.dpboss.solutions/images/chicekn-road-game-develop.png)](https://wa.me/918585858844)
+
+---
+
 ## 🔥 Game Features
 - 🧠 **4 Game Levels:** Easy, Medium, Hard, Hardcore
 - ⚙️ **Admin Control:** Configure reward growth per step
@@ -58,9 +62,9 @@ Admin can easily manage:
 - Trap logic behavior
 - Difficulty-level reward configuration
 
-<img src="https://www.dpboss.solutions/images/chicken-road-game-admin.png" alt="Chicken Road Game Admin" draggable="false" onclick="return false;" style="pointer-events: none;">
+<img src="https://www.dpboss.solutions/images/chicken-road-game-admin.png" alt="Chicken Road Game Admin">
 
-<img src="https://www.dpboss.solutions/images/chicken-road-game-report.png" alt="Chicken Road Game Report" draggable="false" onclick="return false;" style="pointer-events: none;">
+<img src="https://www.dpboss.solutions/images/chicken-road-game-report.png" alt="Chicken Road Game Report">
 
 **Admin Report Panel:**
 - Shows daily game statistics with play count
@@ -88,8 +92,6 @@ For commercial use, licensing, or customization:
 **📞 Phone / WhatsApp:**
 - 8585814444
 - 8585858844
-
-[![Contact on WhatsApp](https://www.dpboss.solutions/images/chicekn-road-game-develop.png)](https://wa.me/918585858844)
 
 **👨‍💻 Developed by:** Gowebs Team
 
