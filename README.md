@@ -52,6 +52,20 @@ This makes the game extremely engaging, with repeat play value and suspense at e
 
 ---
 
+## 🧑‍💼 Chicken Road Game Admin Panel
+Admin can easily manage:
+- Reward multiplier per step
+- Trap logic behavior
+- Difficulty-level reward configuration
+
+[![Chicken Road Game Admin](https://www.dpboss.solutions/images/chicken-road-game-admin.png)](https://wa.me/918585858844)
+
+**Settings Snapshot:** Chicken Road Cross Settings – Multiplier Manage
+
+**Keywords:** chicken road game admin panel, chicken cross game settings, chicken game multiplier setup, reward multiplier management, chicken road kotlin source code, real money game admin, satta game panel, matka game script
+
+---
+
 ## 📲 Contact to Purchase / License
 For commercial use, licensing, or customization:
 
