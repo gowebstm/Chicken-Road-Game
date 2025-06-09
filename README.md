@@ -58,9 +58,9 @@ Admin can easily manage:
 - Trap logic behavior
 - Difficulty-level reward configuration
 
-<img src="https://www.dpboss.solutions/images/chicken-road-game-admin.png" alt="Chicken Road Game Admin" draggable="false">
+<img src="https://www.dpboss.solutions/images/chicken-road-game-admin.png" alt="Chicken Road Game Admin" draggable="false" onclick="return false;" style="pointer-events: none;">
 
-<img src="https://www.dpboss.solutions/images/chicken-road-game-report.png" alt="Chicken Road Game Report" draggable="false">
+<img src="https://www.dpboss.solutions/images/chicken-road-game-report.png" alt="Chicken Road Game Report" draggable="false" onclick="return false;" style="pointer-events: none;">
 
 **Admin Report Panel:**
 - Shows daily game statistics with play count
